@@ -1,7 +1,7 @@
-# Raid
+# 馬騮討伐戰
 
 <figure markdown>
-  ![Alt text](./imgs/raid_banner.png)
+  ![Alt text](./imgs/raid_banner.png){ loading=lazy }
 </figure>
 
 ## 前置任務 
@@ -36,7 +36,7 @@
 
 === "1"
     <figure markdown>
-        ![Alt text](imgs/raid_1.png)
+        ![Alt text](imgs/raid_1.png){ loading=lazy }
     </figure>
 
     由主角250等級以上的玩家點擊齊天大聖石像，開啟討伐UI頁面，創建隊伍 (做隊長)。然後組4位隊員(建議人數齊5人)，全部隊員準備好的狀態下，由隊長點擊Enter(右圖副本入場位置按鈕)入場
@@ -49,7 +49,7 @@
 
 === "2"
     <figure markdown>
-        ![Alt text](imgs/raid_2.png)
+        ![Alt text](imgs/raid_2.png){ loading=lazy }
     </figure>
 
     「討伐」中隊長的進行情況如下：
@@ -63,7 +63,7 @@
 === "3"
 
     <figure markdown>
-        ![Alt text](imgs/raid_3.png)
+        ![Alt text](imgs/raid_3.png){ loading=lazy }
     </figure>
 
     「討伐」中隊員的進行情況如下：
@@ -77,7 +77,7 @@
 === "4"
 
     <figure markdown>
-        ![Alt text](imgs/raid_4.png)
+        ![Alt text](imgs/raid_4.png){ loading=lazy }
     </figure>
 
     隊長進場跟BOSS 1對1戰鬥，把BOSS打至半血，當BOSS的體力低於50%時，BOSS將發動無敵增益效果，不受傷害。BOSS進入無敵狀態時，隊員的地圖上將會出現特殊怪物「猴戰士(討伐)」、「猴咒術士(討伐)」、「憤怒的猿公(討伐)」，需消滅該怪物中特定1種的指定數量後(280隻)才可解除BOSS的無敵增益效果。   
@@ -92,7 +92,7 @@
 === "5"
 
     <figure markdown>
-        ![Alt text](imgs/raid_5.png)
+        ![Alt text](imgs/raid_5.png){ loading=lazy }
     </figure>
 
     隊員消滅指定怪物後，BOSS的無敵會消失，此時隊長可以把BOSS打死，令其變身為第２階段，再把第２階段的BOSS打至半血，然後BOSS又會開啟無敵，重複第4點步驟，隊長繞場不停走動避免被BOSS出技打中，隊員負責消滅特定怪物
@@ -121,7 +121,7 @@ BOSS的行動模式有兩種，分別為一般狀態和無敵狀態
 ## 隊長技能
 
 <figure markdown>
-![Alt text](imgs/raid_6.png)
+![Alt text](imgs/raid_6.png){ loading=lazy }
 </figure>
 
 戰鬥中，隊長可使用位於組合技能附近的「強化增益效果」。
@@ -134,7 +134,7 @@ BOSS的行動模式有兩種，分別為一般狀態和無敵狀態
 ## 獎勵
 
 <figure markdown>
-![Alt text](imgs/raid_7.png)
+![Alt text](imgs/raid_7.png){ loading=lazy }
 </figure>
 
 完場後會彈出結算介面，成功通關隊長和隊員都會有1個寶箱隨機抽物品
