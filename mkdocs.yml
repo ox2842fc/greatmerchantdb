@@ -1,0 +1,28 @@
+site_name: Great Merchant DB
+repo_name: "ox2842fc/greatmerchantdb"
+repo_url: "https://github.com/ox2842fc/greatmerchantdb"
+theme:
+  name: material
+  features:
+    - content.tabs.link
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: switch to light mode
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+nav:
+  - 主頁: "index.md"
+  - 攻略:
+      - Raid: "raid.md"
+  - 日誌: "history.md"
