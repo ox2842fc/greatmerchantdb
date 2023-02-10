@@ -25,6 +25,7 @@ markdown_extensions:
 
 nav:
   - 主頁: "index.md"
+  - 雜項: "tips.md"
   - 攻略:
       - 馬騮討伐戰: "raid.md"
       - 靈異怪談: "strange_tales.md"
