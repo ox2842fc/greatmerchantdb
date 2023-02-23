@@ -1,5 +1,9 @@
 # 雜項
 
+## 工作量公式
+
+![Alt text](imgs/works.png){ loading=lazy}
+
 ## 轉印兵地點
 
 ![Alt text](imgs/tips_01.png){ loading=lazy}
