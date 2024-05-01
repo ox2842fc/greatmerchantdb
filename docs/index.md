@@ -3,3 +3,5 @@
 <figure markdown>
 ![Alt text](imgs/4_2560x1440.jpg)
 </figure>
+
+物價網(debug) : https://gm-dashboard.vercel.app
