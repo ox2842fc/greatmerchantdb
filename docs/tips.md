@@ -24,7 +24,3 @@
 
 ![Alt text](imgs/tips_05.png){ loading=lazy}
 >Edited by 韓龍
-
-## 星座 +8 成本
-![Alt text](imgs/tips_06.png){ loading=lazy}
-

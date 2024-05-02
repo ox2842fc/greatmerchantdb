@@ -26,6 +26,7 @@ markdown_extensions:
 nav:
   - 主頁: "index.md"
   - 覺醒天王: "awaken_devas.md"
+  - 星宿系統: "star.md"
   - 雜項: "tips.md"
   - 攻略:
       - 討伐戰(齊天大聖): "raid.md"
