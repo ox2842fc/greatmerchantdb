@@ -27,8 +27,13 @@ nav:
   - 主頁: "index.md"
   - 覺醒天王: "awaken_devas.md"
   - 星宿系統: "star.md"
-  - 雜項: "tips.md"
+  - 裝備:
+      - 寅劍: "sain_swords.md"
+  - 雜項:
+      - 巨商修練書: "training_book.md"
+      - 其他小撇步: "tips.md"
   - 攻略:
       - 討伐戰(齊天大聖): "raid.md"
+      - 哪吒的試煉: "nezha_trials.md"
       - 靈異怪談: "strange_tales.md"
   - 日誌: "history.md"

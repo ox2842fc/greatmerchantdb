@@ -1,0 +1,46 @@
+{
+  "sam_in": {
+    "name": "三寅劍 (Sam-In Sword)",
+    "level": 235,
+    "stats": {
+      "VIT": 50,
+      "INT": 250
+    },
+    "skill": "銀河水 (Galaxy Water)",
+    "materials": [
+      "青銅劍 (不可交易) x1",
+      "古代朱雀石板 x1",
+      "古代玄武石板 x1",
+      "古代白虎石板 x1",
+      "古代青龍石板 x1",
+      "古代麒麟石板 x1",
+      "力的根源 x5",
+      "1億錢幣支票 x5"
+    ],
+    "notes": "不可交易"
+  },
+  "sa_in": {
+    "name": "四寅劍 (Sa-In Sword)",
+    "level": 250,
+    "stats": {
+      "STR": 100,
+      "VIT": 70,
+      "INT": 250,
+      "Attribute": 20
+    },
+    "skill": "強化銀河水",
+    "versions": ["火", "水", "風", "雷", "地"],
+    "materials_base": [
+      "三寅劍 (不可交易) x1",
+      "力的根源 x5",
+      "1億錢幣支票 x5"
+    ],
+    "materials_attribute_example": {
+      "Fire": [
+        "燃燒的朱雀石板 (不可交易) x1",
+        "閃耀的紅玉 x10"
+      ]
+    },
+    "notes": "不可交易"
+  }
+}
